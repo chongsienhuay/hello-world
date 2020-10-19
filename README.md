@@ -1,2 +1,3 @@
 # hello-world
-sienhuay helloworld repository
+Hi Huamns!
+This is sienhuay, trying out Github.
